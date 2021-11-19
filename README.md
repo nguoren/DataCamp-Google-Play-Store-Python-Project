@@ -16,14 +16,14 @@
 10. Sentiment analysis of user reviews
 
 ## Insights Derived
-a. 33 unique app categories
-b. 'Family' and 'Game' have the highest market prevalence
-c. 'Tools', 'Business' and 'Medical' are also amongst the top
-d. Average apps rating = 4.17
-e. Distribution of apps rating is left-skewed ie. majority of apps are highly rated
-f. Size of top rated apps range from 2 MB to 20 MB
-g. Vast majority of apps are <$10
-h. 'Medical' and 'Family' apps are the most expensive (up to $80)
-i. 'Game' apps are priced <$20
-j. Paid apps have a relatively lower number of installs than free apps
-k. Free apps received harsher comments
+1. 33 unique app categories
+2. 'Family' and 'Game' have the highest market prevalence
+3. 'Tools', 'Business' and 'Medical' are also amongst the top
+4. Average apps rating = 4.17
+5. Distribution of apps rating is left-skewed ie. majority of apps are highly rated
+6. Size of top rated apps range from 2 MB to 20 MB
+7. Vast majority of apps are <$10
+8. 'Medical' and 'Family' apps are the most expensive (up to $80)
+9. 'Game' apps are priced <$20
+10. Paid apps have a relatively lower number of installs than free apps
+11. Free apps received harsher comments
