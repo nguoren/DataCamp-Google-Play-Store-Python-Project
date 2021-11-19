@@ -14,3 +14,16 @@
 8. Filter out "junk" apps
 9. Popularity of paid apps vs free apps
 10. Sentiment analysis of user reviews
+
+## Insights Derived
+a. 33 unique app categories
+b. 'Family' and 'Game' have the highest market prevalence
+c. 'Tools', 'Business' and 'Medical' are also amongst the top
+d. Average apps rating = 4.17
+e. Distribution of apps rating is left-skewed ie. majority of apps are highly rated
+f. Size of top rated apps range from 2 MB to 20 MB
+g. Vast majority of apps are <$10
+h. 'Medical' and 'Family' apps are the most expensive (up to $80)
+i. 'Game' apps are priced <$20
+j. Paid apps have a relatively lower number of installs than free apps
+k. Free apps received harsher comments
