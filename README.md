@@ -15,7 +15,7 @@
 9. Popularity of paid apps vs free apps
 10. Sentiment analysis of user reviews
 
-## Insights Derived
+## Insights Gathered
 1. 33 unique app categories
 2. 'Family' and 'Game' have the highest market prevalence
 3. 'Tools', 'Business' and 'Medical' are also amongst the top
